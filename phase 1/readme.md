@@ -12,13 +12,13 @@
 
 🔵 WEEK 1
 Day Topics
-Day 1 Arrays, Variables (DS) + What is Algorithm + OOP intro (Class, Object) + Set Theory (Math) + Logic Gates (AND, OR, NOT)
+Day 1 Arrays, Variables (DS) + What is Algorithm + OOP intro (Class, Object) + Logic Statements, Truth Tables + Logic Gates (AND, OR, NOT)
 
-Day 2 Strings & Arrays Problems + Time Complexity (Big O) + Encapsulation, Attributes, Methods + Logic Statements, Truth Tables + Gates Practice
+Day 2 Strings & Arrays Problems + Time Complexity (Big O) + Encapsulation, Attributes, Methods + Set Theory (Math) + Gates Practice
 
-Day 3 Linked Lists (singly) + Searching (Linear, Binary) + Abstraction + Constructors + Boolean Algebra Basics + Combinational Circuits
+Day 3 Stacks & Queues + Searching (Linear, Binary) + Abstraction + Constructors + Boolean Algebra Basics + Combinational Circuits
 
-Day 4 Stacks & Queues + Selection Sort + Analysis + Inheritance + Overriding + Basic Limits (Calculus) + K-map (2 variables)
+Day 4 Linked Lists (singly) + Selection Sort + Analysis + Inheritance + Overriding + Basic Limits (Calculus) + K-map (2 variables)
 
 Day 5 Hash Tables + Searching Problems + Polymorphism, Interface + Chain Rule (Calculus) + K-map (3–4 variables)
 
