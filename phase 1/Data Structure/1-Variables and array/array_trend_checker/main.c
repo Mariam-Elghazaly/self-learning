@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-/* Write a C program that asks the user to enter 10 integers in an array. The program will then
+/*          Write a C program that asks the user to enter 10 integers in an array. The program will then
                 display (based on the entered numbers) one of the following messages:
                 "the numbers in the array are increasing",
                 "the numbers in the array are decreasing",
                 "the numbers in the array are not changing", or
-                "the numbers in the array are increasing and then decreasing."
-                */
+                "the numbers in the array are increasing and then decreasing."*/
 
 int main()
 {
