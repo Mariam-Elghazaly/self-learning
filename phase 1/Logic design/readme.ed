@@ -1,0 +1,37 @@
+# 🧠 Logic Design Projects – CircuitVerse
+
+This branch contains digital logic circuits designed using [CircuitVerse](https://circuitverse.org/), a powerful browser-based simulator for learning and prototyping digital systems.
+
+## 📁 Structure
+
+Each circuit project in this branch includes:
+
+- A `.cv` file: The **CircuitVerse project file** (JSON-based format used by CircuitVerse)
+- A `README.md` file: A short explanation of **what the circuit does**, how it works, and any design notes
+
+> ✅ This makes each logic project clear, organized, and understandable for both learners and reviewers.
+
+
+## 📄 About the `.cv` File
+
+The file(s) in this branch have the extension `.cv`, which stands for **CircuitVerse project file**.
+
+- Although `.cv` files are technically JSON files, they are **intended to be opened using the CircuitVerse platform**.
+- Do **not** open them as plain text or in a JSON editor — they’re meant for logic simulation.
+
+## 🚀 How to Open the Project
+
+You can open any `.cv` file in [CircuitVerse](https://circuitverse.org/) by following these steps:
+
+1. Go to [https://circuitverse.org](https://circuitverse.org)
+2. Log in or sign up for a free account
+3. Click on your profile menu and select **“My Projects”**
+4. Press the **“Import Project”** button
+5. Choose the `.cv` file you downloaded from this repo
+6. Click **“Upload”** – your circuit will now be available and editable
+
+
+---
+
+🛠️ Each subfolder will represent a separate circuit project with its own `.cv` file and description.  
+This makes it easy to browse, learn from, and reuse the designs.
