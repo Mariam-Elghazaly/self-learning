@@ -42,6 +42,6 @@ This demonstrates how basic logic building blocks can be composed to form more c
 
 You can explore, simulate, and edit the circuit via CircuitVerse here:
 
-👉 [Open Project in CircuitVerse](https://circuitverse.org/simulator/embed/gates-6082249d-0e60-4c5d-8441-c785a2935995?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true")
+👉 [Open Project in CircuitVerse](https://circuitverse.org/simulator/embed/gates-6082249d-0e60-4c5d-8441-c785a2935995?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true"=)
 
 ---
