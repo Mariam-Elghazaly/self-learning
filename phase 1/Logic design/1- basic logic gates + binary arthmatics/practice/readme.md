@@ -43,4 +43,4 @@ d) Y = (A' + B') (C + D')
 ![Y = (A' + B') (C + D')](D.png)
 ![](D_table.png)
 
-👉 [Open Project in CircuitVerse]("https://circuitverse.org/simulator/embed/gates_problem4?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true")
+👉 [Open Project in CircuitVerse](https://circuitverse.org/simulator/embed/gates_problem4?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true)
