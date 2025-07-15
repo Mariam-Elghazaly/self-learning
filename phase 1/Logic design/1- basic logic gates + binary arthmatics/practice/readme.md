@@ -21,28 +21,26 @@ numbers in binary (77 + (-42)).
 
 Draw logic diagrams to implement the following Boolean expression:
 a) Y = A + B + B'(A + C')  
-c) Y = ( A⊕ C)' + B
-
-## Problem# 5
-
-Draw the truth Table of:
-a) A + A’B
-b) A’ +B’ + C
-c) A(B + AC +A’)
-d) AB + AB’ + B’C
-
-## Problem #6
-
 b) Y = C(B⊕ D) + A'
+c) Y = ( A⊕ C)' + B
 d) Y = (A' + B') (C + D')
-Perform subtraction on the given unsigned binary numbers using the 2’s
-complement. Where the result should be negative, find its 2’s complement and
-affix a minus sign. (suppose numbers are represented in 8 bit)
-(a) 10011 - 10010  
-(b) 100010 - 100110
-(c) 1001 - 110101  
-(d) 101000 - 10101
 
 ## solve from 1 to 3:
 
 ![solve](solve.png)
+
+## solve problem 4
+
+![Y = A + B + B'(A + C')](<A(1).png>)
+![](A_table.png)
+
+![Y = C(B⊕ D) + A'](B.png)
+![](B_table.png)
+
+![Y = ( A⊕ C)' + B](C.png)
+![](C_table.png)
+
+![Y = (A' + B') (C + D')](D.png)
+![](D_table.png)
+
+👉 [Open Project in CircuitVerse]("https://circuitverse.org/simulator/embed/gates_problem4?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true">)
