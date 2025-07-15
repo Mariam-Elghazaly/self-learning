@@ -45,4 +45,4 @@ affix a minus sign. (suppose numbers are represented in 8 bit)
 
 ## solve from 1 to 3:
 
-![solve](problem#1.png)
+![solve](solve.png)
