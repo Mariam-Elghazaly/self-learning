@@ -9,6 +9,9 @@ This directory demonstrates the implementation of fundamental logic gates using 
 3. **NOT Gate**
 4. **Combined Logic**:  
    \[(A AND B) OR (NOT A)\]
+5. **practice dir that contain:
+   5.1. 1's and 2's compelments practice
+   5.2 gates drawing using CV and their tabels**
 
 ---
 
