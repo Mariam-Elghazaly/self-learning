@@ -30,4 +30,3 @@ To build a strong foundation in:
 Stay tuned as I gradually build up this repo into a strong reference for my OOP understanding and applications 🚀
 
 Made with Java ☕ and curiosity ✨  
-— Sool 💡
